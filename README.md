@@ -1,5 +1,1 @@
-# My Project
-# shirin
-# yogi
-# surendra
-# omkar
+This is version 1 of README
